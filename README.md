@@ -28,8 +28,7 @@ Distilled 3D Gaussian Splatting
 <img src="assets/fig1.png"  width="100%" height="100%">
 </div>
 
->**TL;DR**: <em>MVSGaussian is a Gaussian-based method designed for efficient reconstruction of unseen scenes from sparse views in **a single forward pass**. It also offers high-quality initialization for fast training and real-time rendering.</em>
-
+>**TL;DR**: <em>We present Distilled-3DGS, a simple yet effective knowledge distillation framework that achieves competitive performance in both rendering quality and storage efficiency.</em>
 
 ## ⚡ Updates
 + [2025.08.19] **[Project Page](https://distilled3dgs.github.io/)** |  **[arXiv]()** released.
@@ -38,6 +37,7 @@ Distilled 3D Gaussian Splatting
 ## 🌟 Abstract
 3D Gaussian Splatting (3DGS) has exhibited remarkable efficacy in novel view synthesis (NVS). However, it suffers from a significant drawback: achieving high-fidelity rendering typically necessitates a large number of 3D Gaussians, resulting in substantial memory consumption and storage requirements. To address this challenge, we propose the first knowledge distillation framework for 3DGS, featuring various teacher models, including vanilla 3DGS, noise-augmented variants, and dropout-regularized versions.  The outputs of these teachers are aggregated to guide the optimization of a lightweight student model. To distill the hidden geometric structure, we propose a structural similarity loss to boost the consistency of spatial geometric distributions between the student and teacher model. Through comprehensive quantitative and qualitative evaluations across diverse datasets, the proposed Distilled-3DGS—a simple yet effective framework without bells and whistles—achieves promising rendering results in both rendering quality and storage efficiency compared to state-of-the-art methods. 
 
+## 🌟 Pipeline
 <div style="text-align:center">
 <img src="assets/fig2.png"  width="90%" height="100%">
 </div>
