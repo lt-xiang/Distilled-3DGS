@@ -16,7 +16,7 @@ Distilled 3D Gaussian Splatting
 </div>
 
 <p align="center">
-  <a href="" target='_blank'>
+  <a href="https://arxiv.org/abs/2508.14037" target='_blank'>
     <img src="http://img.shields.io/badge/cs.CV-arXiv%3A2405.12218-B31B1B.svg">
   </a>
   <a href="https://distilled3dgs.github.io/" target='_blank'>
@@ -31,7 +31,7 @@ Distilled 3D Gaussian Splatting
 >**TL;DR**: <em>We present Distilled-3DGS, a simple yet effective knowledge distillation framework that achieves competitive performance in both rendering quality and storage efficiency.</em>
 
 ## ⚡ Updates
-+ [2025.08.19] **[Project Page](https://distilled3dgs.github.io/)** |  **[arXiv]()** released.
++ [2025.08.19] **[Project Page](https://distilled3dgs.github.io/)** |  **[arXiv](https://arxiv.org/abs/2508.14037)** released.
 
 
 ## 🌟 Abstract
