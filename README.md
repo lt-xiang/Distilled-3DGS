@@ -3,8 +3,8 @@ Distilled 3D Gaussian Splatting
 </h2>
 <div>
 <div align="center">
-    <a href='https://distilled3dgs.github.io/' target='_blank'>Lintao Xiang</a><sup>1</sup>&emsp;
-    <a href='https://distilled3dgs.github.io/' target='_blank'>Xinkai Chen</a><sup>2</sup>&emsp;
+    <a href='https://distilled3dgs.github.io/' target='_blank'>Lintao Xiang</a><sup>*1</sup>&emsp;
+    <a href='https://distilled3dgs.github.io/' target='_blank'>Xinkai Chen</a><sup>*2</sup>&emsp;
     <a href='https://cse.sysu.edu.cn/teacher/LaiJianhuang' target='_blank'>Jianhuang Lai</a><sup>3</sup>&emsp;
     <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang</a><sup>2</sup><br>
 </div>
