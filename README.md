@@ -42,3 +42,16 @@ Distilled 3D Gaussian Splatting
 <img src="assets/fig2.png"  width="90%" height="100%">
 </div>
 Our method consists of two stages. First, a standard teacher model G_std is trained, along with two variants: G_perb with random perturbation and G_drop with random dropout. Then, a pruned student model G_std is supervised by the outputs of these teachers. Additionally, a spatial distribution distillation strategy is introduced to help the student learn structural patterns from the teachers.
+
+<!--BibTex citation -->
+
+<div class="container is-max-desktop content">
+  <h2 class="title">Citation</h2>
+  <pre><code>@article{Xiang2025Distilled3DGaussianSplatting,
+title={Distilled-3DGS: Distilled 3D Gaussian Splatting},
+author={Lintao Xiang and Xinkai Chen and Jianhuang Lai and Guangcong Wang},
+journal={arxiv},
+year={2025}}</code></pre>
+</div>
+
+<!--End BibTex citation -->
