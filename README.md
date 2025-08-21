@@ -1,5 +1,5 @@
 <h2 align="center" width="100%">
-Distilled 3D Gaussian Splatting
+Distilled-3DGS: Distilled 3D Gaussian Splatting
 </h2>
 <div>
 <div align="center">
