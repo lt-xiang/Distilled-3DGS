@@ -1,0 +1,4 @@
+# ninja log v5
+0	8962	1756676046060456869	/home/colin/workspace/code/DistilledGS_v2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	58e5d5e0751e1e93
+0	10887	1756676047992464236	/home/colin/workspace/code/DistilledGS_v2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	dc9886dc48404b3e
+1	57779	1756676094871645217	/home/colin/workspace/code/DistilledGS_v2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	d219a74e6a5e593c
