@@ -117,7 +117,7 @@ bash run_mip360_out.sh
 # Tanks & Temples
 bash run_tnt.sh
 
-# DTU/BlendedMVS (DB)
+# Deep Blending (DB)
 bash run_db.sh
 ```
 
